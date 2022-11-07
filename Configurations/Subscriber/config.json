@@ -1,0 +1,9 @@
+{
+  "idClient": "",
+  "broker_ip" : "155.185.4.4",
+  "broker_port" : 7883,
+  "username": "282423@studenti.unimore.it",
+  "password": "stzkbjuyzghckidn",
+  "TOPIC_TELEMETRY": "/iot/user/282423@studenti.unimore.it/vehicle/+/telemetry",
+  "TOPIC_INFO": "/iot/user/282423@studenti.unimore.it/vehicle/+/info"
+}
